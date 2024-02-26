@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello!  I'm Sevda Nur Çopur <br><br>🌟 I am currently participating in the MIUUL Data Science Bootcamp<br>      <br>🌈 I am a 4th year industrial engineering student.<br><br>🚀 I'm passionate about data science and machine learning, constantly developing my skills in these areas.<br><br>📫 How to reach me sevdanurcopur@gmail.com
+👋 Hello!  I'm Sevda Nur Çopur <br><br>🌟 I am currently trainee in the MIUUL Data Science Bootcamp<br>      <br>🌈 I am a 4th year industrial engineering student.<br><br>🚀 I'm passionate about data science and machine learning, constantly developing my skills in these areas.<br><br>📫 How to reach me sevdanurcopur@gmail.com
 
 
 ## 🌐 Socials:
