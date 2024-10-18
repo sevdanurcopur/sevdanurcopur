@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 👋 Hi! I'm **Sevda Nur** 
 
-👋 Hi! I'm **Sevda Nur Çopur** . <br><br>🌟 I have a degree in **Industrial Engineering** and a strong passion for **Data Science**, **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**. I'm constantly learning and advancing my skills in these fields.<br><br> 🚀 Always eager to take on new challenges, I love exploring the limitless possibilities that data and AI can bring.  <br><br> 📫 Feel free to reach out to me at **sevdanurcopur@gmail.com**.
+🌟 I have a degree in **Industrial Engineering** and a strong passion for **Data Science**, **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**. I'm constantly learning and advancing my skills in these fields.<br><br> 🚀 Always eager to take on new challenges, I love exploring the limitless possibilities that data and AI can bring.  <br><br> 📫 Feel free to reach out to me at **sevdanurcopur@gmail.com**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sevdanurcopur/) 
