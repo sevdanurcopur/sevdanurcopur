@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi!  I'm Sevda Nur Çopur <br><br>🌟 I am a graduate in Industrial Engineering.<br><br> 🚀 I'm passionate about data science, machine learning and deep learning constantly developing my skills in these areas.<br><br> 📫 How to reach me sevdanurcopur@gmail.com
+
+👋 Hi! I'm Sevda Nur Çopur.
+🌟 With a degree in Industrial Engineering, I have a strong passion for data science, machine learning, deep learning, and NLP. I'm continuously honing my skills in these fields and staying at the forefront of innovation.
+🚀 Always eager to take on new challenges, I love exploring the limitless possibilities that data and AI can bring.
+📫 Feel free to reach out to me at sevdanurcopur@gmail.com.
 
 
 ## 🌐 Socials:
