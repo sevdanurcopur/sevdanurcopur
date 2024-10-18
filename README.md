@@ -2,7 +2,8 @@
 
 # 👋 Hi! I'm **Sevda Nur**
 
-</div>
+</div> 
+
 🌟 I have a degree in **Industrial Engineering** and a strong passion for **Data Science**, **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**. I'm constantly learning and advancing my skills in these fields.<br><br> 🚀 Always eager to take on new challenges, I love exploring the limitless possibilities that data and AI can bring.  <br><br> 📫 Feel free to reach out to me at **sevdanurcopur@gmail.com**.
 
 ## 🌐 Socials:
