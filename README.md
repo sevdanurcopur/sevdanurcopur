@@ -1,6 +1,5 @@
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=sevdanurcopur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 👋 Hi! I'm **Sevda Nur**
 
